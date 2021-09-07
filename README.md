@@ -1,1 +1,1 @@
-# Lequi shcool
+# Lequi School
