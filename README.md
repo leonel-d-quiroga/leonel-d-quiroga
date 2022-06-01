@@ -1,1 +1,1 @@
-# leonel-d-quiroga
+# Lequi School
