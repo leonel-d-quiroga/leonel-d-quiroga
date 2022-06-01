@@ -1,6 +1,6 @@
 package composite;
 
-public class Shop {
+public class ShopClient {
     public static void main(String[] args) {
         DeliveryService deliveryService = new DeliveryService();
         deliveryService.setupOrder(

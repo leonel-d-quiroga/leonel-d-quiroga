@@ -17,4 +17,5 @@ public class CompositeBox implements  Box {
                 .mapToDouble(Box::calculatePrice)
                 .sum();
     }
+
 }

@@ -8,6 +8,8 @@ public class VideoGame extends Product {
 
     @Override
     public double calculatePrice() {
-        return getPrice();
+        double basePrice = getPrice();
+        double tax = basePrice * 0.21;
+        return basePrice + tax;
     }
 }
